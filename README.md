@@ -1,4 +1,4 @@
-# Terminal Color Schemes - mine and attempted mimics - for Your Pleasure and Pain
+# Terminal Color Schemes for Your Pleasure and Pain
 dconf of my terminal color schemes, since I think some are quite nice (and/or visually interesting). See [here](https://unix.stackexchange.com/questions/448811/how-to-export-a-gnome-terminal-profile) for probable usage.
 
 ## Sane black chic:
